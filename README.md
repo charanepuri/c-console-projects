@@ -28,7 +28,7 @@ A console application for managing student records with file handling support.
 - Loops and Conditional Statements
 
 **Repository:**  
-https://github.com/charanepuri/student-management-system-c
+https://github.com/charanepuri/StudentManagementSystem
 
 ---
 
