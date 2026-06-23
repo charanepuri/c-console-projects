@@ -96,7 +96,6 @@ c-console-projects/
 ├── Advanced-Calculator/
 └── Number-Guessing-Game/
 '''
-
 ---
 
 ## 🎯 Learning Outcomes
