@@ -89,12 +89,13 @@ https://github.com/charanepuri/number-guessing-game-c
 ---
 
 ## 📂 Folder Structure
-
+'''text
 c-console-projects/
 │
 ├── Student-Management-System/
 ├── Advanced-Calculator/
 └── Number-Guessing-Game/
+'''
 
 ---
 
